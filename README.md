@@ -23,7 +23,7 @@
 >	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
 >	<br><br>
 >	<b>𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎</b><br>
-> [![](https://github-readme-stats.vercel.app/api/top-langs?username=0xDuwa&layout=compact&langs_count=8&theme=midnight-purple)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)
+> [![](https://github-readme-stats.vercel.app/api/top-langs?username=0xDuwA&layout=compact&langs_count=8&theme=midnight-purple)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)
 [![Commits](https://github-readme-stats.vercel.app/api?username=0xDuwa&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)<br>
 >
 
