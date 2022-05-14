@@ -9,7 +9,7 @@ C:\Github\Users\0xDuwa>ReadmeUserProfiler
  -------------
 
      Name  -  0xDuwa
-Interests  -  Make money, Development, Finance, Informatique Lover
+Interests  -  Make money, Development, Informatique Lover
 Languages  -  Html, JS, Python
     Alias  -  0xSyntax
    Discord  -  0xDuwa#1503 | 186882442450173952
