@@ -2,7 +2,7 @@
 C:\Github\Users\0xDuwa>ReadmeUserProfiler
 ```
 >
-><img align="left" src="https://media.discordapp.net/attachments/962438997014085693/963509345323212871/3910DF81-9586-455B-856A-769886E18285.gif" /> 
+><img align="left" src="https://media.discordapp.net/attachments/979032062768082954/979341527492997200/giphy.gif" /> 
 >
 ```Informatique
  0xDuwa@github
