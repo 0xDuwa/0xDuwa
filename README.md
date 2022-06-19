@@ -18,4 +18,5 @@ Languages  -  Html, JS, Python
 
   <a href="https://github.com/0xDuwa">
     <img src="https://lanyard.cnrad.dev/api/186882442450173952"/>
+    <img src="https://lanyard.cnrad.dev/api/287715395014754307"/>
      </a> 
