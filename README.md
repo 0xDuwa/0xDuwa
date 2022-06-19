@@ -14,7 +14,8 @@ Languages  -  Html, JS, Python
     Alias  -  0xSyntax
    Discord  -  0xDuwa#1503 | 186882442450173952
 ```
-   # **𝘿 𝙐 𝙒 𝘼**<br>
+  
+  # **𝘿 𝙐 𝙒 𝘼**<br>
 
   <a href="https://github.com/0xDuwa">
     <img src="https://lanyard.cnrad.dev/api/186882442450173952"/>
