@@ -22,4 +22,5 @@ Languages  -  Html, JS, Python
     <img src="https://lanyard.cnrad.dev/api/186882442450173952"/>
     <img src="https://lanyard.cnrad.dev/api/287715395014754307"/>
     <img src="https://lanyard.cnrad.dev/api/153363817563160576"/>
+    <img src="https://lanyard.cnrad.dev/api/315912378565001217"/>
      </a> 
